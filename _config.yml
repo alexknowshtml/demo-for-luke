@@ -8,7 +8,7 @@ baseurl: ''
 author:
   name: Luke Butler
   url: https://twitter.com/Luke
-paginate: 6
+paginate: 7
 exclude:
 - README.md
 - vendor/bundle
