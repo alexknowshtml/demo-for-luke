@@ -18,9 +18,9 @@ plugins:
 - jekyll-paginate
 sidebar_home_link: true
 theme_colors:
-  sidebar-bg-color: "#000000"
+  sidebar-bg-color: "#A33B3B"
   sidebar-fg-color: "#FFFFFF"
-  link-color: "#000000"
+  link-color: "#8D4F4F"
 sidebar-sticky: true
 layout-reverse: false
 remote_theme: fongandrew/hydeout
